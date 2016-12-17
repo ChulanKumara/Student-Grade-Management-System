@@ -1,0 +1,38 @@
+
+MODULE 1 : Object Oriented Programming with C++
+
+	C++ is a general-purpose programming language. It has imperative, 
+	object-oriented and generic programming features, while also providing 
+	facilities for low-level memory manipulation.
+
+	It was designed with a bias toward system programming and embedded,
+	resource-constrained and large systems, with performance, efficiency
+	and flexibility of use as its design highlights.
+
+
+MODULE 2 : Computer Technology
+
+	The computer technology program transforms students into technology
+	leaders in a sustainable global economy.  This is achieved by 
+	presenting students with a strong foundation in the concepts, 
+	theories, and practices that serve as the basis for the varying 
+	aspects of information technology. This includes the design,
+	implementation, and adminstration of secured systems and networks.
+	Students have the opportunity to develope expertise in specialty
+	areas of interest through electives in higher level technology
+	courses.
+
+MODULE 3 : Internet Technology
+		
+	he Internet is the global system of interconnected computer 
+	networks that use the Internet protocol suite (TCP/IP) to link 
+	billions of devices worldwide. It is a network of networks that 
+	consists of millions of private, public, academic, business, 
+	and government networks of local to global scope, linked by a 
+	broad array f electronic, wireless, and optical networking 
+	technologies. The Internet carries an extensive range of 
+	information resources and services, such as the inter-linked
+	hypertext documents and applications of the World Wide Web 
+	(WWW), electronic mail, telephony, and peer-to-peer networks 
+	for file sharing.
+		

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1446970241 source:c:\users\samintha kaveesh\documents\code_blocks\c++\c++_project_stu_grd_mgt_sys\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<cstdio>
+	<windows.h>
+	<dos.h>
+	<algorithm>
+	<cctype>
+	<functional>
+
